@@ -12,5 +12,6 @@ public class NetMain {
         System.out.println("name = " + name);
         System.out.println("name2 = " + name2);
         int a = 10;
+        String kk = "abcd";
     }
 }
