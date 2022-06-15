@@ -11,5 +11,6 @@ public class NetMain {
         InetAddress name2 = InetAddress.getByName("www.baidu.com");
         System.out.println("name = " + name);
         System.out.println("name2 = " + name2);
+        int a = 10;
     }
 }
